@@ -32,6 +32,9 @@ You play as a "Debugger" trapped inside a digital world. To escape, you must sol
 
 ---
 
+📢 Contribution
+Got an idea for a new level? Fork this repo and contribute your challenge!
+
 ## 🖥️ How to Run
 
-git clone https://github.com/yourusername/code-quest-python-game.git
+git clone https://github.com/jushi2/code-quest-python-game.git
